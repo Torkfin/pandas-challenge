@@ -1,2 +1,2 @@
 # pandas-challenge
-CHris Torkelson Pandas Challenge
+Chris Torkelson Pandas Challenge
